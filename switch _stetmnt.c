@@ -13,7 +13,7 @@ int main()
     switch (choice)
     {
     case 1:
-        printf("You entered One\n");
+        printf("You are not One\n");
         break;
     case 2:
         printf("You entered Two\n");
