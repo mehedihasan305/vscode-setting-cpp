@@ -4,7 +4,7 @@ int main()
 
     int num, sum = 0, rem, temp, i, fact;
 
-    printf("Enter any integer : ");
+    printf("Enter any of integer : ");
     scanf("%d", &num);
 
     temp = num;
